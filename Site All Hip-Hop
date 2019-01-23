@@ -1,0 +1,40 @@
+<!Doctype html>
+   <html>
+<head>
+<title>site 2</title>
+ <body> 
+ <font color="yellow">
+<h1>All Hip-Hop</h1>
+<h2>A origem...</h2>
+<p> O hip-hop surgiu na década de 70 como um movimento cultural entre os latino-americanos, os jamaicanos e os afro-americanos da cidade de Nova York mais precisamente no sul do Bronx.</p>
+
+<H2>Os 4 Elementos</H2>
+<p> os pilares da cultura hip-hop como são quatro:<strong> MCing, DJing, B-boying e Graffiti Writing.</strong></p>
+<H2>Gangsta Rap?</H2>
+<p><strong>Gangsta Rap</strong> é um termo criado pela mídia para descrever um certo género do Rap, que tem por característica a descrição do dia-a-dia violento dos jovens de algumas cidades.</p>
+<h2>Alguns Destaques do Gênero...</h2>
+<ul>
+<li>Snoop Dogg</li>
+<li>2 Pac</li>
+<li>Ice Cube</li>
+<li> Dr.Dre</li>
+</ul>
+<body background="plano fundo ajustado4.jpg"
+<embed src="" autostart="true" loop="true">
+<h2>Vídeos</h2>
+<ul>
+<p>Aqui você encontra os videos do seu artista favorito!</p>
+<li><a href="https://www.youtube.com/watch?v=gKS08HkGMA4" target="_blank" ><font color="yellow">Play 01</a></li>
+<li><a href="https://www.youtube.com/watch?v=41qC3w3UUkU" target="_blank" ><font color="yellow">Play 02</a></li>
+<li><a href="https://www.youtube.com/watch?v=_CL6n0FJZpk" target="_blank" ><font color="yellow">Play 03</a></li>
+<li><a href="https://www.youtube.com/watch?v=t7hL0LrmBj8" target="_blank" ><font color="yellow">Play 04</a></li>
+</ul>
+<h2>Músicas</h2>
+<P>Download rápido e prático das músicas que você mais gosta!</P>
+<a href="https://libfm.com/search/s/f/dr+dre+explosive/" target="_blank" ><font color="yellow">Escolher</a>
+<hr>
+<P>Carlos.A.Souza 22/01/2019
+</font>
+</body>
+</head>
+</html>
